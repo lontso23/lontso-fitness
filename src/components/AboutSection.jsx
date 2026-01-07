@@ -19,7 +19,7 @@ export const AboutSection = () => {
             <h2 className="section-title animate-fade-in">Sobre Mí</h2>
             <div className="about-description animate-fade-in delay-100">
               <p>
-                Soy <strong>Mikel Nieto</strong>, atleta de culturismo natural con 12 años de experiencia en el gimnasio y 8 años compitiendo a nivel profesional.
+                Soy <strong>Mikel Nieto</strong>, atleta de culturismo natural con 12 años de experiencia en el gimnasio y 8 años compitiendo en la categoría Men´s Physique.
               </p>
               <p>
                 Mi camino en el fitness no ha sido de atajos ni soluciones rápidas. Ha sido un proceso de constancia, disciplina y aprendizaje continuo. He experimentado en mi propio cuerpo cada fase del entrenamiento, desde principiante hasta competidor, y eso me permite entender exactamente por dónde estás pasando.
