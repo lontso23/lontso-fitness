@@ -14,7 +14,7 @@ export const HeroSection = () => {
               <span className="hero-title-accent">Sin Atajos.</span>
             </h1>
             <p className="hero-subtitle animate-fade-in delay-100">
-              Entrenamiento personalizado de culturismo natural para personas comprometidas que buscan transformar su físico de manera sostenible.
+              Entrenamiento personalizado para personas comprometidas que buscan transformar su físico de manera sostenible.
             </p>
             <div className="hero-cta animate-fade-in delay-200">
               <a 
