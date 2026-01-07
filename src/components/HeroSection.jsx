@@ -1,0 +1,45 @@
+import React from 'react';
+import { ArrowRight } from 'lucide-react';
+import './HeroSection.css';
+
+export const HeroSection = () => {
+  return (
+    <section id="inicio" className="hero-section">
+      <div className="hero-container">
+        <div className="hero-content">
+          <div className="hero-text animate-fade-in">
+            <h1 className="hero-title">
+              Resultados Reales.
+              <br />
+              <span className="hero-title-accent">Sin Atajos.</span>
+            </h1>
+            <p className="hero-subtitle animate-fade-in delay-100">
+              Entrenamiento personalizado de culturismo natural para personas comprometidas que buscan transformar su físico de manera sostenible.
+            </p>
+            <div className="hero-cta animate-fade-in delay-200">
+              <a 
+                href="https://forms.gle/vVG2UMMZxQwy1ez86" 
+                target="_blank" 
+                rel="noopener noreferrer" 
+                className="btn-primary"
+              >
+                Solicitar Valoración Gratuita
+                <ArrowRight size={20} />
+              </a>
+              <p className="hero-note">12 años de experiencia • 8 años compitiendo</p>
+            </div>
+          </div>
+          
+          <div className="hero-image animate-fade-in delay-300">
+            <img 
+              src="https://customer-assets.emergentagent.com/job_coach-rendimiento/artifacts/i7hds5in_MensPhysiqueAwards-2995.jpg" 
+              alt="Mikel Nieto en competición"
+              className="hero-img"
+            />
+            <div className="hero-image-overlay"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+  );
+};
