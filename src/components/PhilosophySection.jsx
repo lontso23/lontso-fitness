@@ -32,7 +32,7 @@ export const PhilosophySection = () => {
         <div className="philosophy-header">
           <h2 className="section-title animate-fade-in">Mi Filosofía de Entrenamiento</h2>
           <p className="philosophy-intro animate-fade-in delay-100">
-            El culturismo natural no es sprint, es maratón. Estos son los principios que guían cada uno de mis programas.
+            Cambiar un físico no es un sprint, es una carrera de fondo. Estos son los principios que guían cada uno de mis programas.
           </p>
         </div>
 

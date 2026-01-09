@@ -19,7 +19,7 @@ export const AboutSection = () => {
             <h2 className="section-title animate-fade-in">Sobre Mí</h2>
             <div className="about-description animate-fade-in delay-100">
               <p>
-                Soy <strong>Mikel Nieto</strong>, atleta de culturismo natural con 12 años de experiencia en el gimnasio y 8 años compitiendo en la categoría Men´s Physique.
+                Soy <strong>Mikel Nieto</strong>, atleta de la categoría Men´s Physique con 14 años de experiencia en el gimnasio y 8 años compitiendo.
               </p>
               <p>
                 Mi camino en el fitness no ha sido de atajos ni soluciones rápidas. Ha sido un proceso de constancia, disciplina y aprendizaje continuo. He experimentado en mi propio cuerpo cada fase del entrenamiento, desde principiante hasta competidor, y eso me permite entender exactamente por dónde estás pasando.
@@ -40,7 +40,7 @@ export const AboutSection = () => {
               <div className="stat-card">
                 <Target className="stat-icon" size={28} />
                 <div className="stat-content">
-                  <h3 className="stat-number">12 Años</h3>
+                  <h3 className="stat-number">14 Años</h3>
                   <p className="stat-label">En el Gimnasio</p>
                 </div>
               </div>

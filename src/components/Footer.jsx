@@ -16,7 +16,7 @@ export const Footer = () => {
               className="footer-logo"
             />
             <p className="footer-tagline">
-              Entrenamiento natural. Resultados reales.
+              Nosotros No Fallamos.
             </p>
           </div>
 

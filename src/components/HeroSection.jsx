@@ -26,7 +26,6 @@ export const HeroSection = () => {
                 Solicitar Valoración Gratuita
                 <ArrowRight size={20} />
               </a>
-              <p className="hero-note">12 años de experiencia • 8 años compitiendo</p>
             </div>
           </div>
           
