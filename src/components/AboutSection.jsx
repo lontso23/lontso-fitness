@@ -19,15 +19,19 @@ export const AboutSection = () => {
             <h2 className="section-title animate-fade-in">Sobre Mí</h2>
             <div className="about-description animate-fade-in delay-100">
               <p>
-                Soy <strong>Mikel Nieto</strong>, atleta de la categoría Men´s Physique con 14 años de experiencia en el gimnasio y 8 años compitiendo.
+                Soy <strong>Mikel Nieto</strong>, atleta de la categoría Men´s Physique con 14 años de experiencia en el gimnasio y 8 años compitiendo, además de ingeniero informático de profesión.
               </p>
               <p>
-                Mi camino en el fitness no ha sido de atajos ni soluciones rápidas. Ha sido un proceso de constancia, disciplina y aprendizaje continuo. He experimentado en mi propio cuerpo cada fase del entrenamiento, desde principiante hasta competidor, y eso me permite entender exactamente por dónde estás pasando.
+                Desde siempre he compaginado el entrenamiento y la competición con una carrera profesional que exige constancia, responsabilidad y un alto esfuerzo mental. Trabajar en un entorno técnico y exigente me ha enseñado a planificar, ser metódico y mantener el foco incluso en momentos de presión, habilidades que aplico exactamente igual dentro y fuera del gimnasio.
               </p>
               <p>
-                Como entrenador, mi enfoque es realista y sostenible. No prometo transformaciones milagrosas en 30 días. Lo que sí garantizo es un plan personalizado basado en ciencia, experiencia y dedicación, diseñado para ayudarte a alcanzar tu mejor versión física de forma natural y duradera.
+                Mi camino en el fitness no ha sido de atajos ni soluciones rápidas. Ha sido un proceso de constancia, disciplina y aprendizaje continuo. He vivido en primera persona cada etapa del entrenamiento, desde principiante hasta competidor, entendiendo lo que supone progresar cuando tienes trabajo, obligaciones y una vida más allá del gimnasio.
+              </p>
+              <p>
+                Como entrenador, mi enfoque es realista y sostenible. No prometo transformaciones milagrosas en 30 días. Lo que sí ofrezco es un acompañamiento serio y personalizado, basado en ciencia, experiencia y dedicación, para ayudarte a construir tu mejor versión física de forma natural, duradera y compatible con tu día a día.
               </p>
             </div>
+
             
             <div className="about-stats animate-fade-in delay-200">
               <div className="stat-card">
