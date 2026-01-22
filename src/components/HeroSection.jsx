@@ -18,11 +18,6 @@ export const HeroSection = () => {
             Trabajo contigo paso a paso para construir un físico fuerte, saludable y mantenible en el tiempo.
           </p>
 
-          {/* Elemento de identidad */}
-          <p className="hero-identity animate-fade-in delay-150">
-            Nosotros no fallamos.
-          </p>
-
           <div className="hero-cta animate-fade-in delay-200">
             <a 
               href="https://forms.gle/vVG2UMMZxQwy1ez86" 
